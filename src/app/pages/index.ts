@@ -1,0 +1,6 @@
+export { default as Home } from "./Home"
+export { default as More } from "./More"
+export { default as News } from "./News"
+export { default as NotFound } from "./NotFound"
+export { default as Promo } from "./Promo"
+export { default as Tickets } from "./Tickets"

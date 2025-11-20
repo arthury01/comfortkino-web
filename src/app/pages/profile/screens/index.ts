@@ -1,0 +1,6 @@
+export { default as About } from "./About"
+export { default as Edit } from "./Edit"
+export { default as Favourites } from "./Favourites"
+export { default as History } from "./History"
+export { default as Notifications } from "./Notifications"
+export { default as Promocode } from "./Promocode"
